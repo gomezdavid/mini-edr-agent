@@ -1,0 +1,17 @@
+# Database
+edr.db
+
+# Virtual environment
+.venv
+env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# VS Code
+.vscode
