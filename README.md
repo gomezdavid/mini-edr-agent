@@ -1,19 +1,28 @@
 # Mini EDR
-A lightweight Endpoint Detection and Response agent built with FastAPI and SQLite. The agent monitors the local system and exposes an HTTP API to query real-time data about running processes and active network connections.
+
+A lightweight Endpoint Detection and Response agent built with FastAPI and SQLite. The agent monitors the local system and exposes an HTTP API to query real-time data about running processes, active network connections, and file management.
 
 ## Technologies
+
 - **FastAPI** — HTTP API framework
-- **SQLite** — local persistence for system events
+- **SQLite** — local persistence for system events and audit logs
 - **psutil** — system and process monitoring
 - **Pydantic** — data validation and serialization
+- **PyJWT** — JWT authentication
 - **Uvicorn** — ASGI server
 
 ## Concepts applied
-- Separation of concerns across multiple modules (`database.py`, `models.py`, `agent.py`, `main.py`)
+
+- Separation of concerns across multiple modules (`database.py`, `models.py`, `agent.py`, `auth.py`, `files.py`, `audit.py`, `main.py`)
 - SQLite persistence with timestamped event snapshots
 - Dependency injection with `Depends` for database connection management
 - OS-level introspection with `psutil` (processes, network connections)
 - Automatic error handling for volatile system data (`NoSuchProcess`, `AccessDenied`)
+- JWT authentication with token expiration
+- Localhost-only middleware
+- Protected paths policy system
+- Audit logging to both file and SQLite
+- SHA256 file integrity verification
 
 ## Installation
 
@@ -24,44 +33,98 @@ python -m venv .venv
 source .venv/bin/activate     # Linux/Mac
 
 # Install dependencies
-pip install fastapi uvicorn psutil
+pip install -r requirements.txt
+
+# Configure environment variables
+cp .env.example .env
+# Edit .env with your values
 
 # Run the agent
-fastapi dev main.py
+uvicorn main:app --reload
 ```
 
 Interactive documentation available at `http://localhost:8000/docs`.
 
-The database file `edr.db` is created automatically on first run.
+The database file `edr.db` and audit log `audit.log` are created automatically on first run.
+
+## Authentication
+
+All endpoints except `/auth/login` require a JWT token.
+
+```bash
+# 1. Login to get a token
+POST /auth/login
+{
+  "username": "admin",
+  "password": "admin123"
+}
+
+# 2. Use the token in subsequent requests
+Authorization: Bearer <token>
+```
 
 ## Endpoints
-### GET /processes
-Captures a snapshot of all currently running processes and stores it in the database. Returns the full history of recorded snapshots.
 
-```
-GET /processes
-```
+### Auth
+| Method | Route | Description |
+|--------|-------|-------------|
+| POST | `/auth/login` | Returns a JWT token |
 
-Response fields: `pid`, `name`, `username`, `cpu`, `memory`, `timestamp`
+### Processes
+| Method | Route | Description |
+|--------|-------|-------------|
+| GET | `/processes` | Captures and returns a snapshot of all running processes |
 
-### GET /connections
-Captures a snapshot of all active network connections and stores it in the database. Returns the full history of recorded snapshots.
+### Connections
+| Method | Route | Description |
+|--------|-------|-------------|
+| GET | `/connections` | Captures and returns a snapshot of all active network connections |
 
-```
-GET /connections
-```
+### Files
+| Method | Route | Description |
+|--------|-------|-------------|
+| GET | `/files/info` | Returns permissions, SHA256 hash and timestamps of a file |
+| DELETE | `/files` | Deletes a file — blocked if path is protected |
 
-Response fields: `local_ip`, `local_port`, `remote_ip`, `remote_port`, `status`, `timestamp`
+### Audit
+| Method | Route | Description |
+|--------|-------|-------------|
+| GET | `/audit` | Returns all audit log entries stored in the database |
+
+## Protected paths
+
+The following paths are protected and cannot be deleted:
+
+- `C:\Windows`
+- `C:\Windows\System32`
+- `C:\Program Files`
+- `C:\Program Files (x86)`
+- `~\AppData`
+
+Any deletion attempt on these paths is blocked and logged.
 
 ## Project structure
 
 ```
 .
-├── main.py       # FastAPI app and endpoints
-├── agent.py      # system data collection logic (psutil)
-├── database.py   # SQLite connection and table initialization
-├── models.py     # Pydantic models
-└── edr.db        # SQLite database (auto-generated)
+├── main.py         # FastAPI app, endpoints and middleware
+├── agent.py        # system data collection logic (psutil)
+├── auth.py         # JWT authentication
+├── files.py        # file management and protected paths
+├── audit.py        # audit logging to file and SQLite
+├── database.py     # SQLite connection and table initialization
+├── models.py       # Pydantic models
+├── config.py       # configuration and protected paths
+├── tests/
+│   ├── __init__.py
+│   └── test_auth.py
+├── .env.example
+├── requirements.txt
+└── edr.db          # SQLite database (auto-generated)
 ```
 
-* will be adding new futures
+## Running tests
+
+```bash
+pytest tests/ -v
+```
