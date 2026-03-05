@@ -1,0 +1,654 @@
+2026-03-03T12:19:15 | Will watch for changes in these directories: ['C:\\Users\\gomez\\Desktop\\workspace\\mini-edr']
+2026-03-03T12:19:15 | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-03-03T12:19:15 | Started reloader process [13924] using WatchFiles
+2026-03-03T12:19:15 | 1 change detected
+2026-03-03T12:19:15 | Started server process [4184]
+2026-03-03T12:19:15 | Waiting for application startup.
+2026-03-03T12:19:15 | Application startup complete.
+2026-03-03T12:19:16 | 1 change detected
+2026-03-03T12:19:16 | 1 change detected
+2026-03-03T12:19:16 | 1 change detected
+2026-03-03T12:19:17 | 1 change detected
+2026-03-03T12:19:17 | 1 change detected
+2026-03-03T12:19:17 | 1 change detected
+2026-03-03T12:19:18 | 1 change detected
+2026-03-03T12:19:18 | 1 change detected
+2026-03-03T12:19:19 | 1 change detected
+2026-03-03T12:19:19 | 1 change detected
+2026-03-03T12:19:19 | 1 change detected
+2026-03-03T12:19:20 | 1 change detected
+2026-03-03T12:19:20 | 1 change detected
+2026-03-03T12:19:21 | 1 change detected
+2026-03-03T12:19:21 | 1 change detected
+2026-03-03T12:19:21 | 1 change detected
+2026-03-03T12:19:22 | 1 change detected
+2026-03-03T12:19:22 | 1 change detected
+2026-03-03T12:19:23 | 1 change detected
+2026-03-03T12:19:23 | 1 change detected
+2026-03-03T12:19:23 | 1 change detected
+2026-03-03T12:19:24 | 1 change detected
+2026-03-03T12:19:24 | 1 change detected
+2026-03-03T12:19:25 | 1 change detected
+2026-03-03T12:19:25 | 1 change detected
+2026-03-03T12:19:25 | 1 change detected
+2026-03-03T12:19:26 | 1 change detected
+2026-03-03T12:19:26 | 1 change detected
+2026-03-03T12:19:27 | 1 change detected
+2026-03-03T12:19:27 | 1 change detected
+2026-03-03T12:19:27 | 1 change detected
+2026-03-03T12:19:28 | 1 change detected
+2026-03-03T12:19:28 | 1 change detected
+2026-03-03T12:19:29 | 1 change detected
+2026-03-03T12:19:29 | 1 change detected
+2026-03-03T12:19:29 | 1 change detected
+2026-03-03T12:19:30 | 1 change detected
+2026-03-03T12:19:30 | 1 change detected
+2026-03-03T12:19:31 | 1 change detected
+2026-03-03T12:19:31 | 1 change detected
+2026-03-03T12:19:31 | 1 change detected
+2026-03-03T12:19:32 | 1 change detected
+2026-03-03T12:19:32 | 1 change detected
+2026-03-03T12:19:33 | 1 change detected
+2026-03-03T12:19:33 | 1 change detected
+2026-03-03T12:19:33 | 1 change detected
+2026-03-03T12:19:34 | 1 change detected
+2026-03-03T12:19:34 | 1 change detected
+2026-03-03T12:19:35 | 1 change detected
+2026-03-03T12:19:35 | 1 change detected
+2026-03-03T12:19:35 | 1 change detected
+2026-03-03T12:19:36 | 1 change detected
+2026-03-03T12:19:36 | 1 change detected
+2026-03-03T12:19:37 | 1 change detected
+2026-03-03T12:19:37 | 1 change detected
+2026-03-03T12:19:38 | 1 change detected
+2026-03-03T12:19:38 | 1 change detected
+2026-03-03T12:19:38 | 1 change detected
+2026-03-03T12:19:39 | 1 change detected
+2026-03-03T12:19:39 | 1 change detected
+2026-03-03T12:19:40 | 1 change detected
+2026-03-03T12:19:40 | 1 change detected
+2026-03-03T12:19:40 | 1 change detected
+2026-03-03T12:19:41 | 1 change detected
+2026-03-03T12:19:41 | 1 change detected
+2026-03-03T12:19:41 | 1 change detected
+2026-03-03T12:19:42 | 1 change detected
+2026-03-03T12:19:42 | 1 change detected
+2026-03-03T12:19:43 | 1 change detected
+2026-03-03T12:19:43 | 1 change detected
+2026-03-03T12:19:43 | 1 change detected
+2026-03-03T12:19:44 | 1 change detected
+2026-03-03T12:19:44 | 1 change detected
+2026-03-03T12:19:45 | 1 change detected
+2026-03-03T12:19:45 | 1 change detected
+2026-03-03T12:19:46 | 1 change detected
+2026-03-03T12:19:46 | 1 change detected
+2026-03-03T12:19:46 | 1 change detected
+2026-03-03T12:19:47 | 1 change detected
+2026-03-03T12:19:47 | 1 change detected
+2026-03-03T12:19:48 | 1 change detected
+2026-03-03T12:19:48 | 1 change detected
+2026-03-03T12:19:48 | 1 change detected
+2026-03-03T12:19:49 | 1 change detected
+2026-03-03T12:19:49 | 1 change detected
+2026-03-03T12:19:50 | 1 change detected
+2026-03-03T12:19:50 | 1 change detected
+2026-03-03T12:19:50 | 1 change detected
+2026-03-03T12:19:51 | 1 change detected
+2026-03-03T12:19:51 | 1 change detected
+2026-03-03T12:19:52 | 1 change detected
+2026-03-03T12:19:52 | 1 change detected
+2026-03-03T12:19:52 | 1 change detected
+2026-03-03T12:19:53 | 1 change detected
+2026-03-03T12:19:53 | 1 change detected
+2026-03-03T12:19:53 | 1 change detected
+2026-03-03T12:19:54 | 1 change detected
+2026-03-03T12:19:54 | 1 change detected
+2026-03-03T12:19:55 | 1 change detected
+2026-03-03T12:19:55 | 1 change detected
+2026-03-03T12:19:55 | 1 change detected
+2026-03-03T12:19:56 | 1 change detected
+2026-03-03T12:19:56 | 1 change detected
+2026-03-03T12:19:57 | 1 change detected
+2026-03-03T12:19:57 | 1 change detected
+2026-03-03T12:19:57 | 1 change detected
+2026-03-03T12:19:58 | 1 change detected
+2026-03-03T12:19:58 | 1 change detected
+2026-03-03T12:19:59 | 1 change detected
+2026-03-03T12:19:59 | 1 change detected
+2026-03-03T12:19:59 | 1 change detected
+2026-03-03T12:20:00 | 1 change detected
+2026-03-03T12:20:00 | 1 change detected
+2026-03-03T12:20:01 | 1 change detected
+2026-03-03T12:20:01 | 1 change detected
+2026-03-03T12:20:01 | 1 change detected
+2026-03-03T12:20:02 | 1 change detected
+2026-03-03T12:20:02 | 1 change detected
+2026-03-03T12:20:03 | 1 change detected
+2026-03-03T12:20:03 | 1 change detected
+2026-03-03T12:20:03 | 1 change detected
+2026-03-03T12:20:04 | 1 change detected
+2026-03-03T12:20:04 | 1 change detected
+2026-03-03T12:20:05 | 1 change detected
+2026-03-03T12:20:05 | 1 change detected
+2026-03-03T12:20:05 | 1 change detected
+2026-03-03T12:20:06 | 1 change detected
+2026-03-03T12:20:06 | 1 change detected
+2026-03-03T12:20:07 | 1 change detected
+2026-03-03T12:20:07 | 1 change detected
+2026-03-03T12:20:07 | 1 change detected
+2026-03-03T12:20:08 | 1 change detected
+2026-03-03T12:20:08 | 1 change detected
+2026-03-03T12:20:09 | 1 change detected
+2026-03-03T12:20:09 | 1 change detected
+2026-03-03T12:20:09 | 1 change detected
+2026-03-03T12:20:10 | 1 change detected
+2026-03-03T12:20:10 | 1 change detected
+2026-03-03T12:20:11 | 1 change detected
+2026-03-03T12:20:11 | 1 change detected
+2026-03-03T12:20:11 | 1 change detected
+2026-03-03T12:20:12 | 1 change detected
+2026-03-03T12:20:12 | 1 change detected
+2026-03-03T12:20:13 | 1 change detected
+2026-03-03T12:20:13 | 1 change detected
+2026-03-03T12:20:13 | 1 change detected
+2026-03-03T12:20:14 | 1 change detected
+2026-03-03T12:20:14 | 1 change detected
+2026-03-03T12:20:15 | 1 change detected
+2026-03-03T12:20:15 | 1 change detected
+2026-03-03T12:20:15 | 1 change detected
+2026-03-03T12:20:16 | 1 change detected
+2026-03-03T12:20:16 | 1 change detected
+2026-03-03T12:20:17 | 1 change detected
+2026-03-03T12:20:17 | 1 change detected
+2026-03-03T12:20:17 | 1 change detected
+2026-03-03T12:20:18 | 1 change detected
+2026-03-03T12:20:18 | 1 change detected
+2026-03-03T12:20:19 | 1 change detected
+2026-03-03T12:20:19 | 1 change detected
+2026-03-03T12:20:19 | 1 change detected
+2026-03-03T12:20:20 | 1 change detected
+2026-03-03T12:20:20 | 1 change detected
+2026-03-03T12:20:21 | 1 change detected
+2026-03-03T12:20:21 | 1 change detected
+2026-03-03T12:20:21 | 1 change detected
+2026-03-03T12:20:22 | 1 change detected
+2026-03-03T12:20:22 | 1 change detected
+2026-03-03T12:20:23 | 1 change detected
+2026-03-03T12:20:23 | 1 change detected
+2026-03-03T12:20:23 | 1 change detected
+2026-03-03T12:20:24 | 1 change detected
+2026-03-03T12:20:24 | 1 change detected
+2026-03-03T12:20:25 | 1 change detected
+2026-03-03T12:20:25 | 1 change detected
+2026-03-03T12:20:25 | 1 change detected
+2026-03-03T12:20:26 | 1 change detected
+2026-03-03T12:20:26 | 1 change detected
+2026-03-03T12:20:27 | 1 change detected
+2026-03-03T12:20:27 | 1 change detected
+2026-03-03T12:20:27 | 1 change detected
+2026-03-03T12:20:28 | 1 change detected
+2026-03-03T12:20:28 | 1 change detected
+2026-03-03T12:20:29 | 1 change detected
+2026-03-03T12:20:29 | 1 change detected
+2026-03-03T12:20:29 | 1 change detected
+2026-03-03T12:20:30 | 1 change detected
+2026-03-03T12:20:30 | 1 change detected
+2026-03-03T12:20:31 | 1 change detected
+2026-03-03T12:20:31 | 1 change detected
+2026-03-03T12:20:31 | 1 change detected
+2026-03-03T12:20:32 | 1 change detected
+2026-03-03T12:20:32 | 1 change detected
+2026-03-03T12:20:33 | 1 change detected
+2026-03-03T12:20:33 | 1 change detected
+2026-03-03T12:20:33 | 1 change detected
+2026-03-03T12:20:34 | 1 change detected
+2026-03-03T12:20:34 | 1 change detected
+2026-03-03T12:20:35 | 1 change detected
+2026-03-03T12:20:35 | 1 change detected
+2026-03-03T12:20:35 | 1 change detected
+2026-03-03T12:20:36 | 1 change detected
+2026-03-03T12:20:36 | 1 change detected
+2026-03-03T12:20:37 | 1 change detected
+2026-03-03T12:20:37 | 1 change detected
+2026-03-03T12:20:37 | 1 change detected
+2026-03-03T12:20:38 | 1 change detected
+2026-03-03T12:20:38 | 1 change detected
+2026-03-03T12:20:39 | 1 change detected
+2026-03-03T12:20:39 | 1 change detected
+2026-03-03T12:20:39 | 1 change detected
+2026-03-03T12:20:40 | 1 change detected
+2026-03-03T12:20:40 | 1 change detected
+2026-03-03T12:20:41 | 1 change detected
+2026-03-03T12:20:41 | 1 change detected
+2026-03-03T12:20:42 | 1 change detected
+2026-03-03T12:20:42 | 1 change detected
+2026-03-03T12:20:42 | 1 change detected
+2026-03-03T12:20:43 | 1 change detected
+2026-03-03T12:20:43 | 1 change detected
+2026-03-03T12:20:43 | 1 change detected
+2026-03-03T12:20:44 | 1 change detected
+2026-03-03T12:20:44 | 1 change detected
+2026-03-03T12:20:45 | 1 change detected
+2026-03-03T12:20:45 | 1 change detected
+2026-03-03T12:20:46 | 1 change detected
+2026-03-03T12:20:46 | 1 change detected
+2026-03-03T12:20:46 | 1 change detected
+2026-03-03T12:20:47 | 1 change detected
+2026-03-03T12:20:47 | 1 change detected
+2026-03-03T12:20:48 | 1 change detected
+2026-03-03T12:20:48 | 1 change detected
+2026-03-03T12:20:48 | 1 change detected
+2026-03-03T12:20:49 | 1 change detected
+2026-03-03T12:20:49 | 1 change detected
+2026-03-03T12:20:50 | 1 change detected
+2026-03-03T12:20:50 | 1 change detected
+2026-03-03T12:20:50 | 1 change detected
+2026-03-03T12:20:51 | 1 change detected
+2026-03-03T12:20:51 | 1 change detected
+2026-03-03T12:20:52 | 1 change detected
+2026-03-03T12:20:52 | 1 change detected
+2026-03-03T12:20:52 | 1 change detected
+2026-03-03T12:20:53 | 1 change detected
+2026-03-03T12:20:53 | 1 change detected
+2026-03-03T12:20:54 | 1 change detected
+2026-03-03T12:20:54 | 1 change detected
+2026-03-03T12:20:54 | 1 change detected
+2026-03-03T12:20:55 | 1 change detected
+2026-03-03T12:20:55 | 1 change detected
+2026-03-03T12:20:56 | 1 change detected
+2026-03-03T12:20:56 | 1 change detected
+2026-03-03T12:20:56 | 1 change detected
+2026-03-03T12:20:57 | 1 change detected
+2026-03-03T12:20:57 | 1 change detected
+2026-03-03T12:20:58 | 1 change detected
+2026-03-03T12:20:58 | 1 change detected
+2026-03-03T12:20:58 | 1 change detected
+2026-03-03T12:20:59 | 1 change detected
+2026-03-03T12:20:59 | 1 change detected
+2026-03-03T12:20:59 | 1 change detected
+2026-03-03T12:21:00 | 1 change detected
+2026-03-03T12:21:00 | 1 change detected
+2026-03-03T12:21:01 | 1 change detected
+2026-03-03T12:21:01 | 1 change detected
+2026-03-03T12:21:01 | 1 change detected
+2026-03-03T12:21:02 | 1 change detected
+2026-03-03T12:21:02 | 1 change detected
+2026-03-03T12:21:03 | 1 change detected
+2026-03-03T12:21:03 | 1 change detected
+2026-03-03T12:21:03 | 1 change detected
+2026-03-03T12:21:04 | 1 change detected
+2026-03-03T12:21:04 | 1 change detected
+2026-03-03T12:21:05 | 1 change detected
+2026-03-03T12:21:05 | 1 change detected
+2026-03-03T12:21:05 | 1 change detected
+2026-03-03T12:21:06 | 1 change detected
+2026-03-03T12:21:06 | 1 change detected
+2026-03-03T12:21:07 | 1 change detected
+2026-03-03T12:21:07 | 1 change detected
+2026-03-03T12:21:07 | 1 change detected
+2026-03-03T12:21:08 | 1 change detected
+2026-03-03T12:21:08 | 1 change detected
+2026-03-03T12:21:09 | 1 change detected
+2026-03-03T12:21:09 | 1 change detected
+2026-03-03T12:21:09 | 1 change detected
+2026-03-03T12:21:10 | 1 change detected
+2026-03-03T12:21:10 | 1 change detected
+2026-03-03T12:21:11 | 1 change detected
+2026-03-03T12:21:11 | 1 change detected
+2026-03-03T12:21:12 | 1 change detected
+2026-03-03T12:21:12 | 1 change detected
+2026-03-03T12:21:12 | 1 change detected
+2026-03-03T12:21:13 | 1 change detected
+2026-03-03T12:21:13 | 1 change detected
+2026-03-03T12:21:13 | 1 change detected
+2026-03-03T12:21:14 | 1 change detected
+2026-03-03T12:21:14 | 1 change detected
+2026-03-03T12:21:15 | 1 change detected
+2026-03-03T12:21:15 | 1 change detected
+2026-03-03T12:21:16 | 1 change detected
+2026-03-03T12:21:16 | 1 change detected
+2026-03-03T12:21:16 | 1 change detected
+2026-03-03T12:21:17 | 1 change detected
+2026-03-03T12:21:17 | 1 change detected
+2026-03-03T12:21:17 | Exception in ASGI application
+Traceback (most recent call last):
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 416, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\applications.py", line 1160, in __call__
+    await super().__call__(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 191, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Users\gomez\AppData\Local\Programs\Python\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_utils.py", line 87, in collapse_excgroups
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gomez\Desktop\workspace\mini-edr\main.py", line 26, in localhost_only
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 130, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 116, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 670, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 326, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2502, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 986, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gomez\Desktop\workspace\mini-edr\main.py", line 35, in login
+    token = create_token(credentials.username)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gomez\Desktop\workspace\mini-edr\auth.py", line 15, in create_token
+    "exp": datetime.now(datetime.timezone.utc) + timedelta(minutes=TOKEN_EXPIRE_MINUTES)
+                        ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'timezone'
+2026-03-03T12:21:18 | 1 change detected
+2026-03-03T12:21:18 | 1 change detected
+2026-03-03T12:21:18 | 1 change detected
+2026-03-03T12:21:19 | 1 change detected
+2026-03-03T12:21:19 | 1 change detected
+2026-03-03T12:21:19 | 1 change detected
+2026-03-03T12:21:20 | 1 change detected
+2026-03-03T12:21:20 | 1 change detected
+2026-03-03T12:21:21 | 1 change detected
+2026-03-03T12:21:21 | 1 change detected
+2026-03-03T12:21:21 | 1 change detected
+2026-03-03T12:21:22 | 1 change detected
+2026-03-03T12:21:22 | 1 change detected
+2026-03-03T12:21:23 | 1 change detected
+2026-03-03T12:21:23 | 1 change detected
+2026-03-03T12:21:23 | 1 change detected
+2026-03-03T12:21:24 | 1 change detected
+2026-03-03T12:21:24 | 1 change detected
+2026-03-03T12:21:25 | 1 change detected
+2026-03-03T12:21:25 | 1 change detected
+2026-03-03T12:21:25 | 1 change detected
+2026-03-03T12:21:26 | 1 change detected
+2026-03-03T12:21:26 | 1 change detected
+2026-03-03T12:21:27 | 1 change detected
+2026-03-03T12:21:27 | 1 change detected
+2026-03-03T12:21:27 | 1 change detected
+2026-03-03T12:21:28 | 1 change detected
+2026-03-03T12:21:28 | 1 change detected
+2026-03-03T12:21:29 | 1 change detected
+2026-03-03T12:21:29 | 1 change detected
+2026-03-03T12:21:30 | 1 change detected
+2026-03-03T12:21:30 | 1 change detected
+2026-03-03T12:21:30 | 1 change detected
+2026-03-03T12:21:31 | 1 change detected
+2026-03-03T12:21:31 | 1 change detected
+2026-03-03T12:21:31 | 1 change detected
+2026-03-03T12:21:32 | 1 change detected
+2026-03-03T12:21:32 | 1 change detected
+2026-03-03T12:21:33 | 1 change detected
+2026-03-03T12:21:33 | 1 change detected
+2026-03-03T12:21:33 | 1 change detected
+2026-03-03T12:21:34 | 1 change detected
+2026-03-03T12:21:34 | 1 change detected
+2026-03-03T12:21:35 | 1 change detected
+2026-03-03T12:21:35 | 1 change detected
+2026-03-03T12:21:36 | 1 change detected
+2026-03-03T12:21:36 | 1 change detected
+2026-03-03T12:21:36 | 1 change detected
+2026-03-03T12:21:37 | 1 change detected
+2026-03-03T12:21:37 | 1 change detected
+2026-03-03T12:21:38 | 2 changes detected
+2026-03-03T12:21:38 | WatchFiles detected changes in 'config.py'. Reloading...
+2026-03-03T12:21:38 | Shutting down
+2026-03-03T12:21:38 | Waiting for application shutdown.
+2026-03-03T12:21:38 | Application shutdown complete.
+2026-03-03T12:21:38 | Finished server process [4184]
+2026-03-03T12:21:38 | 1 change detected
+2026-03-03T12:21:39 | Started server process [5000]
+2026-03-03T12:21:39 | Waiting for application startup.
+2026-03-03T12:21:39 | Application startup complete.
+2026-03-03T12:21:39 | 5 changes detected
+2026-03-03T12:21:43 | Exception in ASGI application
+Traceback (most recent call last):
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 416, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\applications.py", line 1160, in __call__
+    await super().__call__(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 191, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Users\gomez\AppData\Local\Programs\Python\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_utils.py", line 87, in collapse_excgroups
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gomez\Desktop\workspace\mini-edr\main.py", line 26, in localhost_only
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 130, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 116, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 670, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\fastapi\routing.py", line 326, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2502, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "c:\Users\gomez\Desktop\workspace\mini-edr\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 986, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gomez\Desktop\workspace\mini-edr\main.py", line 35, in login
+    token = create_token(credentials.username)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gomez\Desktop\workspace\mini-edr\auth.py", line 15, in create_token
+    "exp": datetime.now(datetime.timezone.utc) + timedelta(minutes=TOKEN_EXPIRE_MINUTES)
+                        ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'timezone'
+2026-03-03T12:23:03 | 1 change detected
+2026-03-03T12:23:03 | 1 change detected
+2026-03-03T12:23:03 | 1 change detected
+2026-03-03T12:23:04 | 1 change detected
+2026-03-03T12:23:04 | WatchFiles detected changes in 'auth.py'. Reloading...
+2026-03-03T12:23:04 | Shutting down
+2026-03-03T12:23:04 | Waiting for application shutdown.
+2026-03-03T12:23:04 | Application shutdown complete.
+2026-03-03T12:23:04 | Finished server process [5000]
+2026-03-03T12:23:04 | 1 change detected
+2026-03-03T12:23:05 | Started server process [11480]
+2026-03-03T12:23:05 | Waiting for application startup.
+2026-03-03T12:23:05 | Application startup complete.
+2026-03-03T12:23:05 | 5 changes detected
+2026-03-03T12:23:16 | 1 change detected
+2026-03-03T12:23:16 | 1 change detected
+2026-03-03T12:23:17 | 1 change detected
+2026-03-03T12:23:17 | 2 changes detected
+2026-03-03T12:23:17 | WatchFiles detected changes in 'auth.py'. Reloading...
+2026-03-03T12:23:17 | Shutting down
+2026-03-03T12:23:17 | Waiting for application shutdown.
+2026-03-03T12:23:17 | Application shutdown complete.
+2026-03-03T12:23:17 | Finished server process [11480]
+2026-03-03T12:23:18 | 1 change detected
+2026-03-03T12:23:18 | Started server process [14016]
+2026-03-03T12:23:18 | Waiting for application startup.
+2026-03-03T12:23:18 | Application startup complete.
+2026-03-03T12:23:18 | 5 changes detected
+2026-03-03T12:27:01 | INFO | C:\Users\gomez\Desktop\test> | ERROR | File not found
+2026-03-03T12:27:02 | 3 changes detected
+2026-03-03T12:27:42 | INFO | C:\Users\gomez\Desktop\test\prueba.txt | ERROR | Path is a directory
+2026-03-03T12:27:42 | 3 changes detected
+2026-03-03T12:28:37 | INFO | C:\Users\gomez\Desktop\test\prueba.txt | SUCCESS
+2026-03-03T12:28:37 | 3 changes detected
+2026-03-03T12:29:19 | DELETE | C:\Users\gomez\Desktop\test\prueba.txt | SUCCESS | File deleted successfully.
+2026-03-03T12:29:19 | 3 changes detected
+2026-03-03T12:32:04 | INFO | C:\Users\gomez\Desktop\test\ficticio.txt | ERROR | File not found
+2026-03-03T12:32:04 | 3 changes detected
+2026-03-03T12:32:25 | INFO | C:\Users\gomez\Desktop\test\ficticio.txt | ERROR | File not found
+2026-03-03T12:32:26 | 3 changes detected
+2026-03-03T12:34:01 | INFO | C:\Users\gomez\Desktop\test\ficticio.txt | ERROR | File not found
+2026-03-03T12:34:01 | 3 changes detected
+2026-03-03T12:35:26 | INFO | C:\Users\gomez\Desktop\test\ficticio.txt | SUCCESS
+2026-03-03T12:35:26 | 3 changes detected
+2026-03-03T12:35:55 | DELETE | C:\Windows\System32\ficticio.txt | ERROR | File not found.
+2026-03-03T12:35:55 | 3 changes detected
+2026-03-03T12:37:04 | 1 change detected
+2026-03-03T12:37:05 | 1 change detected
+2026-03-03T12:37:05 | 1 change detected
+2026-03-03T12:37:06 | 1 change detected
+2026-03-03T12:37:06 | 1 change detected
+2026-03-03T12:37:06 | 1 change detected
+2026-03-03T12:37:07 | 2 changes detected
+2026-03-03T12:37:07 | WatchFiles detected changes in 'files.py'. Reloading...
+2026-03-03T12:37:07 | Shutting down
+2026-03-03T12:37:07 | Waiting for application shutdown.
+2026-03-03T12:37:07 | Application shutdown complete.
+2026-03-03T12:37:07 | Finished server process [14016]
+2026-03-03T12:37:07 | 1 change detected
+2026-03-03T12:37:07 | Started server process [3552]
+2026-03-03T12:37:07 | Waiting for application startup.
+2026-03-03T12:37:07 | Application startup complete.
+2026-03-03T12:37:08 | 5 changes detected
+2026-03-03T12:37:09 | 1 change detected
+2026-03-03T12:37:09 | 1 change detected
+2026-03-03T12:37:10 | 2 changes detected
+2026-03-03T12:37:10 | WatchFiles detected changes in 'files.py'. Reloading...
+2026-03-03T12:37:10 | Shutting down
+2026-03-03T12:37:10 | Waiting for application shutdown.
+2026-03-03T12:37:10 | Application shutdown complete.
+2026-03-03T12:37:10 | Finished server process [3552]
+2026-03-03T12:37:10 | 1 change detected
+2026-03-03T12:37:11 | Started server process [6508]
+2026-03-03T12:37:11 | Waiting for application startup.
+2026-03-03T12:37:11 | Application startup complete.
+2026-03-03T12:37:11 | 5 changes detected
+2026-03-03T12:37:54 | DELETE | C:\Windows\System32\ficticio.txt | BLOCKED | Path is protected and cannot be deleted.
+2026-03-03T12:37:54 | 3 changes detected
+2026-03-03T12:38:25 | INFO | C:\Users\gomez\Desktop\test\ficticio.txt | SUCCESS
+2026-03-03T12:38:25 | 3 changes detected
+2026-03-03T12:38:51 | DELETE | C:\Users\gomez\Desktop\test\ficticio.txt | SUCCESS | File deleted successfully.
+2026-03-03T12:38:51 | 3 changes detected
+2026-03-03T12:42:35 | 1 change detected
+2026-03-03T12:42:54 | 2 changes detected
+2026-03-03T12:42:54 | WatchFiles detected changes in 'tests\__init__.py'. Reloading...
+2026-03-03T12:42:54 | Shutting down
+2026-03-03T12:42:54 | Waiting for application shutdown.
+2026-03-03T12:42:54 | Application shutdown complete.
+2026-03-03T12:42:54 | Finished server process [6508]
+2026-03-03T12:42:54 | 1 change detected
+2026-03-03T12:42:55 | Started server process [12456]
+2026-03-03T12:42:55 | Waiting for application startup.
+2026-03-03T12:42:55 | Application startup complete.
+2026-03-03T12:42:59 | Shutting down
+2026-03-03T12:42:59 | Waiting for application shutdown.
+2026-03-03T12:42:59 | Application shutdown complete.
+2026-03-03T12:42:59 | Finished server process [12456]
+2026-03-03T12:42:59 | Stopping reloader process [13924]
+2026-03-05T11:13:01 | Will watch for changes in these directories: ['C:\\Users\\gomez\\Desktop\\workspace\\mini-edr']
+2026-03-05T11:13:01 | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-03-05T11:13:01 | Started reloader process [4528] using WatchFiles
+2026-03-05T11:13:02 | Started server process [14084]
+2026-03-05T11:13:02 | Waiting for application startup.
+2026-03-05T11:13:02 | Application startup complete.
+2026-03-05T11:15:36 | INFO | C:\Users\gomez\Desktop\prueba | ERROR | Path is a directory
+2026-03-05T11:15:36 | 3 changes detected
+2026-03-05T11:15:55 | INFO | C:\Users\gomez\Desktop\prueba\test | ERROR | File not found
+2026-03-05T11:15:55 | 3 changes detected
+2026-03-05T11:16:11 | INFO | C:\Users\gomez\Desktop\prueba\test.txt | SUCCESS
+2026-03-05T11:16:11 | 3 changes detected
+2026-03-05T11:16:45 | INFO | C:\Users\gomez\Desktop\prueba\test1 | ERROR | File not found
+2026-03-05T11:16:45 | 3 changes detected
+2026-03-05T11:16:52 | INFO | C:\Users\gomez\Desktop\prueba\test1.txt | SUCCESS
+2026-03-05T11:16:52 | 3 changes detected
+2026-03-05T11:18:12 | DELETE | C:\Users\gomez\Desktop\prueba\test1.txt | SUCCESS | File deleted successfully.
+2026-03-05T11:18:12 | 3 changes detected
+2026-03-05T11:18:23 | Shutting down
+2026-03-05T11:18:24 | Waiting for application shutdown.
+2026-03-05T11:18:24 | Application shutdown complete.
+2026-03-05T11:18:24 | Finished server process [14084]
+2026-03-05T11:18:24 | Stopping reloader process [4528]

@@ -1,26 +1,41 @@
 from typing import Optional
 from pydantic import BaseModel
 
-class Process(BaseModel):
-    id: Optional[int] = None
-    pid: int
-    name: str
-    username: Optional[str] = None
-    cpu: Optional[float] = None
-    memory: Optional[float] = None
-    timestamp: str
 
-class Connection(BaseModel):
-    id: Optional[int] = None
-    local_ip: Optional[str] = None
-    local_port: Optional[int] = None
-    remote_ip: Optional[str] = None
-    remote_port: Optional[int] = None
-    status: Optional[str] = None
-    timestamp: str
+class LoginRequest(BaseModel):
+    username: str
+    password: str
 
-class FileEvent(BaseModel):
-    id: Optional[int] = None
+
+class TokenResponse(BaseModel):
+    access_token: str
+    token_type: str
+
+
+# Files
+
+class FileInfo(BaseModel):
     path: str
-    event: str
+    size_bytes: int
+    permissions: str
+    sha256: str
+    created_at: str
+    modified_at: str
+    accessed_at: str
+
+
+class DeleteResponse(BaseModel):
+    path: str
+    status: str
+    message: str
+
+
+# Audit
+
+class AuditLog(BaseModel):
+    id: Optional[int] = None
     timestamp: str
+    action: str
+    path: str
+    status: str
+    detail: Optional[str] = None
